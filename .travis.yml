@@ -5,8 +5,3 @@ go:
  - 1.5.1
  - release
  - tip
-
-install: go get -d -v
-
-script:
- - go test -v

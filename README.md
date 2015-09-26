@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/atotto/travisci-golang-example.png)](https://travis-ci.org/atotto/travisci-golang-example)
+[![Build Status](https://travis-ci.org/jiumx60rus/travisci-golang.svg)](https://travis-ci.org/jiumx60rus/travisci-golang)
 
 # Travis-CI example for Go
 
